@@ -1,4 +1,4 @@
-# weather-forecast
+# Previsão do tempo usando aprendizagem de maquina.
 
 Algoritimo de aprendizagem de maquina com dados publicos para prever a possibilidade de chuva
  
@@ -31,6 +31,9 @@ Foi analisado a correlação das seguintes variaveis:
 Transformamos a variavel chuva em sim e não
 
 * Chuva [Diaria] (mm)
+
+### Resultados:
+
 
 
 

@@ -4,9 +4,13 @@ Algoritimo de aprendizagem de maquina com dados publicos para prever a possibili
  
 ## Dataset
 Dataset : https://tempo.inmet.gov.br/ 
+
 Produto : Tabela de dados das estações
+
 Tipo    : Convencionais
+
 Estação : Porto Alegre (83967)
+
 Periodo : 01/01/2000 a 28/03/2021
 
 ## Variaveis
